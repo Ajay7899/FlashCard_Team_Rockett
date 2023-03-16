@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FlashCard_Team_rocket/static/css/main.00ec39b2.css",
+    "main.js": "/FlashCard_Team_rocket/static/js/main.9c7d3ca2.js",
+    "static/media/cryingCat.png": "/FlashCard_Team_rocket/static/media/cryingCat.2246035e280c8a42fb64.png",
+    "static/media/imgbg.jpg": "/FlashCard_Team_rocket/static/media/imgbg.cd28671a5328e7eca41f.jpg",
+    "static/media/flashcards.png": "/FlashCard_Team_rocket/static/media/flashcards.2ddbb71f5ed0593486fa.png",
+    "static/media/whatsapp-icon.svg": "/FlashCard_Team_rocket/static/media/whatsapp-icon.ac4840a55bdbec684859dfe053adcc02.svg",
+    "static/media/twitter-icon.svg": "/FlashCard_Team_rocket/static/media/twitter-icon.349845e8a7ecdf4cda9ff0c1f10181b9.svg",
+    "static/media/linkedin-icon.svg": "/FlashCard_Team_rocket/static/media/linkedin-icon.027c0b2e29ae5d3213c3df117e50f4f8.svg",
+    "index.html": "/FlashCard_Team_rocket/index.html",
+    "static/media/facebook-icon.svg": "/FlashCard_Team_rocket/static/media/facebook-icon.3b098944b4925fbfa9f4d88672bc7a8e.svg",
+    "main.00ec39b2.css.map": "/FlashCard_Team_rocket/static/css/main.00ec39b2.css.map",
+    "main.9c7d3ca2.js.map": "/FlashCard_Team_rocket/static/js/main.9c7d3ca2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00ec39b2.css",
+    "static/js/main.9c7d3ca2.js"
+  ]
+}
