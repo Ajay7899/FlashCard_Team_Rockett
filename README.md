@@ -1,5 +1,5 @@
 
-# **Capstone Project -- Flashcard Generator !!**
+# **Capstone Project -- Flashcard Generator **
 
 A flash card generator is a powerful web application that is designed to help students create, manage, and study digital flashcards for various topics. It is a tool that is created using a combination of HTML, CSS, JavaScript, React, React Router, Tailwind CSS, bootstrap, yup, react-icons, and Formik.The flash card generator application allows users to create digital flashcards for studying and memorizing information. It offers a range of features that make it easy for users to create and manage their flashcards, including the ability to add and edit cards, organize them into decks, and track their progress.
 The application is designed with a user-friendly interface that is easy to navigate, and it offers a range of customization options that allow users to tailor the look and feel of the application to their specific needs. It also offers a range of study modes that help users to test their knowledge and improve their retention of information.
